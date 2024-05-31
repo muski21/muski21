@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muski21 on github Professionaly I'm known as Muskan Singh.
+- 👋 Hi, I’m @muski21 on github Professionaly I'm known as Muskan.
 - 👀 I’m interested in the fields of Data Analytics, Data Dashboarding, Visualization, and Predictive Analytics.
 - 🌱 I’m currently exploring different techniques and tools in the realm of data analysis.
 - 💞️ I’m looking to collaborate on projects related to data analytics and visualization.
